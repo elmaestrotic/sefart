@@ -1,0 +1,32 @@
+Copie o descomprima la carpeta sefart.zip en la unidad D:\ de su PC
+Dentro de la carpeta encontrará un archivo con el nombre: 'Sefart.exe'
+
+Haga soble clic en  dicho archivo para ejecutarlo. 
+Aparece la interfaz gráfica del programa. ¡Ya está listo!.. ahora siga estos pasos:
+
+1. De clic en los menú para abrir el libro deseado o de clic en el botón "cargar libro".
+
+2. Busque el libro, el cual es un txt en hebreo que contiene el texto a procesar(ejemplo: Salmo_110.txt).
+
+3. Una vez se carga el libro observará que la interfaz se coloca en blanco; en ese momento puede dar clic en el botón 'pictogramas'.
+   Observe que aparecen los pictogramas del libro procesado.
+4. Si lo desea de clic en el botón mostrar caracteres, para que aparezca el texto en hebreo y los binarios de cada palabra.
+
+5. Finalmente y si lo desea puede dar clic en el botón 'imprimir' para exportar los pictogramas a Excel.
+
+***Esta versión incluye una carpeta llamada books, la cual contiene todos los libros de la biblia judía en hebreo según el codex de Lenningrado
+
+Nota: Por favor no borré nada y siga las instrucciones tal y como se indican acá(las imágenes que están en la carpeta son necesarias ya que son los iconos
+      de los botones. Se ha dejado todo en la misma carpeta con el fin de simplificar al máximo y que el usuario no tenga que instalar nada. No obstante, puede generar un acceso directo a 'Sefar.exe' y ubicarlo 
+      en el escritorio de su PC).
+
+Cualquier duda no dude en escribirme : elmaestrotic@gmail.com - Alexander Narváez  - youtube.com/alexnarvaez
+
+Toda la gloria sea para el eterno.
+
+¡Shalom!
+
+
+P.D., no estoy asegurando que toda la Torá esté llena de imágenes, pero si puedo decir desde mi propia experiencia que he encontrado algunas que desafian la lógica y se salen del simple azar, debido a que guardan correlación con lo que dice el texto ejemplo Job 38. La imagen de Salmo 110 es única para mi y es una prueba definitiva de que una inteligencia superior y atemporal la codificó. Tengo la teoría que pueden existir más imágenes codificadas pero en otras frecuencias.
+Si este aporte sirve para motivar a algunos a escudriñar las escrituras y renovar o fortalecer un poco su fe, entonces ha valido el esfuerzo.
+"ESCUDRIÑAD LAS ESCRITURAS"
